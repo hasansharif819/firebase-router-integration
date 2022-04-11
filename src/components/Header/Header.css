@@ -1,0 +1,12 @@
+.header a{
+    text-decoration: none;
+    margin-right: 10px;
+    color: black;
+    font-weight: 900;
+    font-size: large;
+}
+
+.image-site img{
+    border-radius: 50%;
+    text-align: center;
+}
